@@ -37,11 +37,21 @@ El análisis de los perfiles reveló las siguientes características demográfic
 - **Distribución por número de cuentas**.
 - **Saldo total por cliente**.
 
+![image](https://github.com/user-attachments/assets/49b1f0fd-f8d4-4424-bae2-1504c6ab9dab)
+
+
+![image](https://github.com/user-attachments/assets/f28d669b-7290-477d-92bb-90eccf3149d1)
+
+
 ### 2. Comportamiento de los Clientes
 Análisis de la interacción digital de los clientes, donde se encontró:
 - **Promedio de inicios de sesión** en los últimos 6 meses.
 - **Número promedio de llamadas al servicio al cliente** en los últimos 6 meses.
 - **Pasos de navegación más frecuentes** y **errores que afectan la usabilidad**.
+
+![image](https://github.com/user-attachments/assets/9c8d816e-31da-417c-a3bd-e8261f7119bf)
+
+![image](https://github.com/user-attachments/assets/3c81794a-6a44-4f65-b880-5d04763722eb)
 
 ---
 
@@ -78,6 +88,8 @@ Análisis de la interacción digital de los clientes, donde se encontró:
    
 - **Efectividad de la Nueva Interfaz:**  
    Las innovaciones implementadas, como las indicaciones contextuales, han mejorado la usabilidad y accesibilidad, resultando en un proceso más fluido y en un aumento de la satisfacción del cliente.
+
+![image](https://github.com/user-attachments/assets/529fb387-f4c5-491a-97e1-29504566d74f)
 
 ---
 
