@@ -42,6 +42,9 @@ El análisis de los perfiles reveló las siguientes características demográfic
 
 ![image](https://github.com/user-attachments/assets/f28d669b-7290-477d-92bb-90eccf3149d1)
 
+![Captura de pantalla 2024-10-04 141214](https://github.com/user-attachments/assets/63c3b005-423c-47a6-bd96-b8c81eaf08b2)
+
+![Captura de pantalla 2024-10-04 141353](https://github.com/user-attachments/assets/d2143034-01f8-464e-b8a3-9a3bf17b4014)
 
 ### 2. Comportamiento de los Clientes
 Análisis de la interacción digital de los clientes, donde se encontró:
@@ -90,6 +93,8 @@ Análisis de la interacción digital de los clientes, donde se encontró:
    Las innovaciones implementadas, como las indicaciones contextuales, han mejorado la usabilidad y accesibilidad, resultando en un proceso más fluido y en un aumento de la satisfacción del cliente.
 
 ![image](https://github.com/user-attachments/assets/529fb387-f4c5-491a-97e1-29504566d74f)
+
+
 
 ---
 
